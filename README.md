@@ -8,6 +8,7 @@
 
 ## My skills:
 <p align="">
+  
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nodejs,postgres,git)](https://skills.thijs.gg)
 
 
@@ -15,6 +16,7 @@
 
 ## In progress: 
 <p align="">
+  
 [![My Skills](https://skills.thijs.gg/icons?i=py, r)](https://skills.thijs.gg) 
   
 
