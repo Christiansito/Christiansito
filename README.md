@@ -2,7 +2,7 @@
 
 ### I'm a tech enthusiast! Currently learning Data Analisys
 
-- 🔭 I am interested in software development. 
+- 🔭 I am interested in Data Analytics and web development. 
 
 &nbsp;
 
