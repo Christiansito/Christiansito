@@ -1,7 +1,7 @@
 ### Hi there, im Christian Calvanese 👋
 
 My skills:
-![image](https://user-images.githubusercontent.com/48470391/178153390-52686597-e73f-4a22-8426-c6a2fe1e188f.png)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
 <!--
 **Christiansito/Christiansito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
