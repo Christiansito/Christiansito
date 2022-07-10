@@ -8,24 +8,14 @@
 
 ## My skills:
 <p align="">
-<img width="8.5%" height= "50%" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
-<img width="8.5%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" >
-<img width="8.5%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png">
-<img width="8%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
-<img width="8%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png">
-<img width="9.6%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png">
-<img width="8.4%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png">
-<img width="8%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png">
-<img width="10%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_wordmark_logo_icon_146528.png">
-<img width="8.6%" height="50%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sequelize_icon_130173.png">
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nodejs,postgres,git)](https://skills.thijs.gg)
 
 
 &nbsp;
 
 ## In progress: 
 <p align="">
-<img width="8.6%" height="50%" src=""https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"">
-<img width="8.6%" height="50%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sequelize_icon_130173.png">  
+[![My Skills](https://skills.thijs.gg/icons?i=py, r)](https://skills.thijs.gg) 
   
 
 &nbsp;
